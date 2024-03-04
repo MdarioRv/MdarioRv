@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MdarioRv
+- 👀 I’m interested in pyyhon
+- 🌱 I’m currently learning python and js
